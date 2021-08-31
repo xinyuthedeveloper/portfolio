@@ -1,9 +1,11 @@
+/* center my name in the middle and give the header some color */
 header {
 	height: 150px;
 	background-color: bisque;
 	text-align: center;
 }
 
+/* adjusting the font, positon, and appearence of my name */
 .myname {
 	font-family: fantasy, sans-serif;
 	font-size: 100px;
@@ -11,36 +13,41 @@ header {
 	padding-top: 30px;
 }
 
+/* center the main sections in the middle and adjust the line height of text */
 section {
 	text-align: center;
 	line-height: 25px;
 }
 
+/* adjusting the size of my photo */
 img {
 	width: 400;
 	
 }
-h1 {
+
+/* assigning different font and color to my headings */
+h1, h2, h3{
 	font-family: fantasy, sans-serif;
 	color: brown;
 	font-weight: 300;
 }
 
-h2 {
-	font-family: fantasy, sans-serif;
-	color: brown;
-	font-weight: 300;
+/* trying to make the lists align to the left */
+ol, ul {
+	text-align: left;
 }
-
+/* assigning monospace and size to paragraphs */
 p {
 	font-family: monospace;
 	font-size: 18px;
 }
 
+/* make the background of the main content to white */
 main {
 	background-color: white;
 }
 
+/* make the footer centered and have a non default background color */
 footer {
 	text-align: center;
 	background-color: bisque;
