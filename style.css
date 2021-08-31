@@ -1,0 +1,47 @@
+header {
+	height: 150px;
+	background-color: bisque;
+	text-align: center;
+}
+
+.myname {
+	font-family: fantasy, sans-serif;
+	font-size: 100px;
+	font-weight: 600;
+	padding-top: 30px;
+}
+
+section {
+	text-align: center;
+	line-height: 25px;
+}
+
+img {
+	width: 400;
+	
+}
+h1 {
+	font-family: fantasy, sans-serif;
+	color: brown;
+	font-weight: 300;
+}
+
+h2 {
+	font-family: fantasy, sans-serif;
+	color: brown;
+	font-weight: 300;
+}
+
+p {
+	font-family: monospace;
+	font-size: 18px;
+}
+
+main {
+	background-color: white;
+}
+
+footer {
+	text-align: center;
+	background-color: bisque;
+}
