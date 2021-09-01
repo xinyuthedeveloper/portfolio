@@ -1,7 +1,7 @@
 /* center my name in the middle and give the header some color */
 header {
 	height: 150px;
-	background-color: bisque;
+	background-color: linear-gradient(red, yellow);
 	text-align: center;
 }
 
@@ -36,6 +36,7 @@ h1, h2, h3{
 ol, ul {
 	text-align: left;
 }
+
 /* assigning monospace and size to paragraphs */
 p {
 	font-family: monospace;
