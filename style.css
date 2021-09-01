@@ -1,7 +1,7 @@
 /* center my name in the middle and give the header some color */
 header {
 	height: 150px;
-	background-color: linear-gradient(red, yellow);
+	background-color: bisque;
 	text-align: center;
 }
 
